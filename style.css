@@ -288,6 +288,9 @@ section {
     }
 }
 /* --- NEW: PERSONAL ABOUT SECTION STYLES --- */
+.about {
+    display: flex;
+}
 
 .about-content-wrapper {
     display: flex;
