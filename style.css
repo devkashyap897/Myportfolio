@@ -68,7 +68,7 @@ nav {
 /* --- NAV SOCIAL ICONS --- */
 .nav-social-icons {
     display: flex;
-    gap: 0.8rem;
+    gap: 20px;
     align-items: center;
 }
 
@@ -398,8 +398,8 @@ footer {
 .social-icons {
     display: flex;
     justify-content: center;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
+    gap: 30px;
+    margin-bottom: 20px;
 }
 
 .social-link {
